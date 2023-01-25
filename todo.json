@@ -1,0 +1,18 @@
+{
+    "tarefa": [
+        {
+            "titulo": "estudar",
+            "prazo": "1 ano",
+            "data de criação": "25.01.2023",
+            "data de término": "25.01.2024",
+            "status": "em andamento"
+        }
+    ],
+    "usuário": [
+        {
+            "nome": "Bruna",
+            "email": "sjdwhdjh@gmail.com",
+            "senha": "123456"
+        }
+    ]
+}
